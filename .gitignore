@@ -1,0 +1,7 @@
+.venv/
+Output/
+.env
+test.py
+output.txt
+brand_structure.json
+.DS_Store
